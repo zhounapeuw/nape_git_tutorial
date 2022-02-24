@@ -9,4 +9,6 @@ more edits
 edits before rebase
 
 
-these edits may conflict with PR
+even more edits
+these edits are now resolved between PR
+
